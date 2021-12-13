@@ -1,7 +1,3 @@
-<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
-
-<div style="font-family: 'Space Mono', monospace;">
-
 <h3 align="center">Hi there, I'm Cat 👋</h3> 
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?center=true&color=C9D1D9&font=Space+Mono&lines=Full+stack+web+dev;Bootcamp+graduate;Always+learning" height="50"></p>
@@ -43,6 +39,3 @@
 <!-- Extra -->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-
-</div>
