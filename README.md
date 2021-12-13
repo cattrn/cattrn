@@ -1,13 +1,4 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
-h3 {
-  margin-top: 50px;
-  font-weight: 700;
-}
-hr {
-  margin: 25px 0;
-}
-</style>
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 
 <div style="font-family: 'Space Mono', monospace;">
 
