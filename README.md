@@ -9,8 +9,8 @@
 <hr>
 
 - 📍 I'm currently based in <strong>Melbourne, Australia</strong>
-- 🌱 I’m currently learning <strong>Python & React Native</strong>
-- 🌟 I'm keen to learn <strong>C#</strong> next
+- 🌱 I’m currently learning <strong>Ruby & Ruby on Rails</strong>
+- 🌟 I'm keen to learn <strong>AWS</strong> next
 - 😄 Pronouns: <strong>She/Her</strong>
 - 💪 Currently <strong>open to work</strong>
 
