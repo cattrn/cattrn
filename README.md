@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning <strong>Ruby & Ruby on Rails</strong>
 - 🌟 I'm keen to learn <strong>AWS</strong> next
 - 😄 Pronouns: <strong>She/Her</strong>
-- 💪 Currently <strong>open to work</strong>
+- 💪 Currently <strong>working at [Envato](https://www.envato.com/)</strong>
 
 <h3>Technologies of choice</h3>
 
